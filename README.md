@@ -45,11 +45,6 @@ I enjoy building fast with AI-assisted tools, but I still care about the underly
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## GitHub Stats
-
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maasu-23&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maasu-23&layout=compact&theme=dark&hide_border=true)
-
 ## Currently Learning
 
 Picking these up in practice while building Mercato — not claiming mastery, just putting in the reps.
