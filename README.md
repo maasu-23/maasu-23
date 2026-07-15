@@ -4,6 +4,10 @@
 
 I like projects that are actually deployed and tested, not just demoed locally — if it doesn't run behind a real endpoint with real tests, I don't consider it done.
 
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-t-25a62a370)
+
 ## Vibe coding & open source
 
 I enjoy building fast with AI-assisted tools, but I still care about the underlying architecture being solid — vibe coding gets me to a working prototype quickly, and then I go back and make sure it's actually built right. I'm also looking to get more involved in open-source contribution.
@@ -40,6 +44,11 @@ I enjoy building fast with AI-assisted tools, but I still care about the underly
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## GitHub Stats
+
+![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maasu-23&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maasu-23&layout=compact&theme=dark&hide_border=true)
 
 ## Currently Learning
 
