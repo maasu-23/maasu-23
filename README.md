@@ -45,6 +45,24 @@ I enjoy building fast with AI-assisted tools, but I still care about the underly
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
+## Credentials
+
+### Microcredentials
+
+<a href="https://www.credly.com/users/mahesh-t.cb593801/badges/credly">
+  <img src="https://images.credly.com/size/680x680/images/b3885091-25bc-42d0-8989-34cca82f3056/blob" width="120" alt="AWS Serverless Demonstrated microcredential" />
+</a>
+
+**AWS Serverless Demonstrated — Microcredential**
+
+### Training Completed
+
+<img src="https://images.credly.com/size/160x160/images/198ccc47-6b2f-45c1-bff0-80b2c980ea40/blob" width="100" alt="AWS SimuLearn AI Practitioner training badge" />
+
+_AWS SimuLearn — AI Practitioner Training Badge_
+
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/mahesh-t.cb593801/badges/credly)
+
 ## Currently Learning
 
 Picking these up in practice while building Mercato — not claiming mastery, just putting in the reps.
