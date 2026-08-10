@@ -63,13 +63,6 @@ _AWS SimuLearn — AI Practitioner Training Badge_
 
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/mahesh-t.cb593801/badges/credly)
 
-## Currently Learning
-
-Picking these up in practice while building Mercato — not claiming mastery, just putting in the reps.
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
 ## Contribution Snake
 
 <picture>
