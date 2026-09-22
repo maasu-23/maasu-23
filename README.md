@@ -12,9 +12,11 @@ I like projects that are actually deployed and tested, not just demoed locally �
 
 I enjoy building fast with AI-assisted tools, but I still care about the underlying architecture being solid — vibe coding gets me to a working prototype quickly, and then I go back and make sure it's actually built right. I'm also looking to get more involved in open-source contribution.
 
-## Featured Project
+## Featured Projects
 
 **[mercato](https://github.com/maasu-23/mercato)** — an agentic shopping assistant with no pre-loaded catalog. It discovers products live via web search and UCP, orchestrated with LangGraph + Claude on Bedrock, and deployed on Lambda + API Gateway secured by AWS IAM (SigV4) auth. Built, tested, and running live.
+
+**[oink-oink](https://github.com/maasu-23/oink-oink)** — a reinforcement learning agent trained with a neural network topology derived from the fruit fly connectome (FlyWire), learning to dodge obstacles in a 2D pig-sprite environment. Built with PyTorch/PPO on Gymnasium + Pygame, trained at scale on AWS SageMaker, with a Bedrock (Claude) agent supervising training and explaining the underlying neurobiology. Connectome-constrained networks learned ~1.5x faster than random baselines across a 9-job multi-seed SageMaker run.
 
 ## Tech Stack
 
@@ -25,6 +27,7 @@ I enjoy building fast with AI-assisted tools, but I still care about the underly
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=flat-square&logo=amazonbedrock&logoColor=white)
 ![Amazon Cognito](https://img.shields.io/badge/Amazon%20Cognito-DD344C?style=flat-square&logo=amazoncognito&logoColor=white)
 ![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white)
+![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-01A88D?style=flat-square&logo=amazonsagemaker&logoColor=white)
 
 **Data & Storage**
 
@@ -35,6 +38,7 @@ I enjoy building fast with AI-assisted tools, but I still care about the underly
 **AI / Agents**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **Languages**
 
@@ -54,12 +58,6 @@ I enjoy building fast with AI-assisted tools, but I still care about the underly
 </a>
 
 **AWS Serverless Demonstrated — Microcredential**
-
-### Training Completed
-
-<img src="https://images.credly.com/size/160x160/images/198ccc47-6b2f-45c1-bff0-80b2c980ea40/blob" width="100" alt="AWS SimuLearn AI Practitioner training badge" />
-
-_AWS SimuLearn — AI Practitioner Training Badge_
 
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/mahesh-t.cb593801/badges/credly)
 
