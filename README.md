@@ -51,6 +51,12 @@ I enjoy building fast with AI-assisted tools, but I still care about the underly
 
 ## Credentials
 
+### Certifications
+
+**GitHub Foundations** — issued by Microsoft, November 2026
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-GitHub%20Foundations-0078D4?style=flat-square&logo=github&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/MaheshT-8934/B678449F8C37E523?sharingId=695D42D02D9F5825)
+
 ### Microcredentials
 
 <a href="https://www.credly.com/users/mahesh-t.cb593801/badges/credly">
